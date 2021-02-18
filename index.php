@@ -1,0 +1,2 @@
+<meta http-equiv = "refresh" content = "1; url = https://google.com" />
+Your IP has been sent to Head and Kali. <em>Remote Server Time: <?php echo date("H:i:s");  ?> User IP: <?php echo $_SERVER['HTTP_CF_CONNECTING_IP'] ?></em>
